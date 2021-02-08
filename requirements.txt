@@ -1,0 +1,12 @@
+Django==3.0.8
+django-cors-headers==3.7.0
+django-filter==2.3.0
+djangorestframework==3.11.1
+sqlparse==0.3.1
+pytz==2020.1
+asgiref==3.2.10
+requests==2.23.0
+regex==2020.11.13
+gunicorn==20.0.4
+whitenoise
+re
